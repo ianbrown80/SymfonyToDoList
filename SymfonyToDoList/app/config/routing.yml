@@ -1,3 +1,4 @@
-app:
-    resource: "@AppBundle/Controller/"
+symfony_to_do_list_to_do:
+    resource: "@SymfonyToDoListToDoBundle/Controller/"
     type:     annotation
+    prefix:   /
